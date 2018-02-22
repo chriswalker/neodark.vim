@@ -277,7 +277,7 @@ endif
 " Standard Syntax
 call s:hi('Comment',                   s:base4,      '',         'italic')
 call s:hi('Constant',                  s:red,        '',         '')
-call s:hi('String',                    s:orange,     '',         '')
+call s:hi('String',                    s:green,     '',         '')
 call s:hi('Character',                 s:orange,     '',         '')
 call s:hi('Identifier',                s:teal,       '',         'none')
 call s:hi('Function',                  s:blue,       '',         '')
